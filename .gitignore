@@ -74,3 +74,8 @@ debian/reproducible-experiment-platform
 debian/files
 *.substvars
 *.debhelper.log
+
+homework01/t10k-images-idx3-ubyte.gz
+homework01/t10k-labels-idx1-ubyte.gz
+homework01/train-images-idx3-ubyte.gz
+homework01/train-labels-idx1-ubyte.gz
